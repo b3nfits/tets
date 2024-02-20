@@ -1,0 +1,15 @@
+C:\Users\soleg\source\repos\asdasd\asdasd\bin\Debug\asdasd.exe.config
+C:\Users\soleg\source\repos\asdasd\asdasd\bin\Debug\asdasd.exe
+C:\Users\soleg\source\repos\asdasd\asdasd\bin\Debug\asdasd.pdb
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.csproj.AssemblyReference.cache
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\MainWindow.g.cs
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\App.g.cs
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd_MarkupCompile.cache
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd_MarkupCompile.lref
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\MainWindow.baml
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.g.resources
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.Properties.Resources.resources
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.csproj.GenerateResource.cache
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.csproj.CoreCompileInputs.cache
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.exe
+C:\Users\soleg\source\repos\asdasd\asdasd\obj\Debug\asdasd.pdb
